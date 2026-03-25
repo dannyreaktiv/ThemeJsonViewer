@@ -4,6 +4,8 @@ A native macOS app for browsing, searching, and copying the CSS custom propertie
 
 Point it at a folder containing one or more WordPress installations and it scans for every `wp-content/themes/*/theme.json`, parses the settings, reconstructs the CSS variables WordPress would output, and presents them in a clean two-column table — with live pixel annotations for every value.
 
+<img width="1231" height="844" alt="Screenshot 2026-03-25 at 11 08 04 AM" src="https://github.com/user-attachments/assets/2bff214d-4e80-4652-9cb0-5f090f886dd2" />
+
 ---
 
 ## Requirements
